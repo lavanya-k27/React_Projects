@@ -1,7 +1,30 @@
 {
-  "users": [{
-    "id": 1 , "name":"Jason"
-  }],
-  "albums":[],
-  "photos":[]
+  "users": [
+    {
+      "id": "34ca",
+      "name": "Mr. Alex Crist"
+    },
+    {
+      "id": "0261",
+      "name": "Priscilla Wunsch"
+    },
+    {
+      "id": "5a29",
+      "name": "Juan Davis"
+    },
+    {
+      "id": "fd70",
+      "name": "Elias Leffler"
+    },
+    {
+      "id": "60d2",
+      "name": "Cathy Hamill"
+    },
+    {
+      "id": "3549",
+      "name": "Lewis Hintz"
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
