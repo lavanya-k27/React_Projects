@@ -33,7 +33,6 @@ function Button({
     }
   );
 
-  console.log(loading)
 
   return (
     <button {...rest} disabled={loading} className={classes}>
