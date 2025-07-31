@@ -13,6 +13,12 @@
       "name": "Kellie Schoen"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Trip",
+      "userId": "fd70"
+    }
+  ],
   "photos": []
 }
