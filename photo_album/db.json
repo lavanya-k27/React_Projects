@@ -15,14 +15,19 @@
   ],
   "albums": [
     {
-      "id": "10",
-      "title": "Trip",
-      "userId": "fd70"
+      "id": "263e",
+      "userId": "fd70",
+      "title": "Oriental Granite Chips"
     },
     {
-      "id": "438f",
-      "userId": "fd70",
-      "title": "Elegant Marble Pants"
+      "id": "0aad",
+      "userId": "ad28",
+      "title": "Fresh Steel Soap"
+    },
+    {
+      "id": "c534",
+      "userId": "85bc",
+      "title": "Incredible Silk Chair"
     }
   ],
   "photos": []
