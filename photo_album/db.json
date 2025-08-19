@@ -7,28 +7,23 @@
     {
       "id": "ad28",
       "name": "Ms. Kellie Ondricka-Dietrich"
-    },
-    {
-      "id": "85bc",
-      "name": "Kellie Schoen"
     }
   ],
   "albums": [
     {
-      "id": "263e",
-      "userId": "fd70",
-      "title": "Oriental Granite Chips"
+      "id": "fec9",
+      "title": "Luxurious Marble Chair"
     },
     {
-      "id": "0aad",
-      "userId": "ad28",
-      "title": "Fresh Steel Soap"
-    },
-    {
-      "id": "c534",
-      "userId": "85bc",
-      "title": "Incredible Silk Chair"
+      "id": "5b62",
+      "title": "Rustic Steel Bike"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "f06d",
+      "albumId": "5b62",
+      "url": "https://loremflickr.com/150/150/abstract?lock=5740947179083166"
+    }
+  ]
 }
